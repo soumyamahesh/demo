@@ -3,5 +3,9 @@ y-3stars
 
 z-5 stars
 
+
+A-N/A
+B-3.5stars
+
 c-not applicable
 Done with my changes
